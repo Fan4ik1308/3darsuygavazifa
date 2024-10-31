@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.header{
+    padding-top: 76px;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style: none;
+}
+a{
+    font-weight: 900;
+    color: black;
+    font-size: 30px;
+}
+.hero{
+    padding-top: 128px;
+}
+.title{
+    color: rgb(0, 0, 0);
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+}
+.nevara{
+    width: 558px;
+height: 452px;
+top: 448px;
+left: 63px;
+gap: 0px;
+opacity: 0px;
+background: #FF0000;
+color: white;
+font-size: 100px;
+text-align: center;
+font-weight: 700;
+text-align: left;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+.bot{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
+
+
